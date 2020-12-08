@@ -1,0 +1,10 @@
+name: Test
+request:
+  method: GET
+  url: /test
+response:
+  status: 200
+  headers:
+    Content-Type: application/json
+  body:
+    value: "you did it"
