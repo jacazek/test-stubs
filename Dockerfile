@@ -1,5 +1,5 @@
 FROM gradle:6.7.1-jdk15
-ENV WIREMOCK_VERSION 2.27.2
+ENV WIREMOCK_VERSION 2.30.1
 ENV CONTRACTS_PATH /home/contracts
 ENV STUBS_PATH /home/demo/build/stubs/META-INF/com.example/demo/0.0.1-SNAPSHOT
 
